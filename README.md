@@ -4,11 +4,9 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=600&lines=Student+%40+ESOFT;Python+%7C+Java+%7C+C%23+Developer;Future+Software+Engineer;Chess+Player+%E2%99%9F" alt="Typing SVG" />
-
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=senithavithanage&color=0f172a&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=SenithaVithanage&color=0f172a&style=flat-square&label=PROFILE+VIEWS)
 ![Location](https://img.shields.io/badge/LOCATION-COLOMBO%2C%20SRI%20LANKA-0f172a?style=flat-square&logo=googlemaps&logoColor=00F0FF&labelColor=000000)
 ![Status](https://img.shields.io/badge/STATUS-ACTIVELY%20LEARNING-0f172a?style=flat-square&logo=readthedocs&logoColor=00F0FF&labelColor=000000)
 
@@ -60,16 +58,16 @@ whoami:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=senithavithanage&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=C9D1D9&ring_color=00F0FF" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senithavithanage&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9" width="30%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SenithaVithanage&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=C9D1D9&ring_color=00F0FF" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenithaVithanage&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9" width="30%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=senithavithanage&theme=dark&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=SenithaVithanage&theme=dark&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" width="60%"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=senithavithanage&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F0FF&line=00F0FF&point=FFFFFF" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SenithaVithanage&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F0FF&line=00F0FF&point=FFFFFF" width="90%"/>
 
 </div>
 
@@ -95,8 +93,8 @@ class SenithaVithanage:
 
 <div align="center">
 
-<a href="mailto:senithavithanage@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-senithavithanage%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00F0FF"/>
+<a href="mailto:SenithaVithanage@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-SenithaVithanage%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00F0FF"/>
 </a>
 
 <br/><br/>
